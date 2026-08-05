@@ -61,9 +61,9 @@
         
         const emojis = await (await fetch('https://raw.githubusercontent.com/enzoenbrrr/pianoverse-emojis/refs/heads/main/emojis.json')).json();
         
-        for (const cat in emojis) {
-            const catDiv = document.getElementById(cat);
-            for (const emoji of emojis[cat]) {
+        for (let cat in emojis) {
+            let catDiv = document.getElementById(cat);
+            for (let emoji of emojis[cat]) {
                 const emojiElement = document.createElement('div');
                 emojiElement.classList.add('emoji');
                 emojiElement.setAttribute('data-name', emoji.name);
