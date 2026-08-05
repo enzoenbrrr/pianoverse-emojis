@@ -5,7 +5,9 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 
 <img width="408" height="311" alt="image" src="https://github.com/user-attachments/assets/a181ac9e-1aba-4c2a-a1bf-b9a02eefa601" />
 
+> [!NOTE]
 > Regular updates will automatically add new emojis if you follow the installation method recommended below.
+
 
 ## Requirements
 
@@ -48,12 +50,14 @@ Once Tampermonkey is installed, you can create a new script and paste the code b
 5. Save the script.
 6. Open Pianoverse and go to the chat: the emojis should now be available.
 
-## Disclaimer
-
-- This is an **unofficial userscript** for Pianoverse.
-- Use it at your own risk and make sure it complies with Pianoverse’s terms of use.
-- Behavior may change if Pianoverse updates its interface or underlying code.
+> [!CAUTION]
+> - This is an **unofficial userscript** for Pianoverse.
+> - Use it at your own risk and make sure it complies with Pianoverse’s terms of use.
+> - Behavior may change if Pianoverse updates its interface or underlying code.
 
 ## Contributing
 
 I am **enzoenbrrr**, enzoɞ `#mlk4kc85` on Pianoverse, and the sole contributor to this project. However, I am open to suggestions for updates and improvements !
+
+> [!TIP]
+> You can contact me via Discord if you run into a problem or wish to chat : **[enzoenbrrr](https://discord.com/users/450214806335782922)**
