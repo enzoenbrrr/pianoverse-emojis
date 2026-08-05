@@ -13,6 +13,19 @@
             emojisButton.style.opacity = '0.4';
         });
 
+        emojisButton.addEventListener('onclick', () => {
+            emojisButton.classList.toggle('fa-xmark');
+            emojisButton.classList.toggle('fa-face-laugh');
+            const popupRoot = document.querySelector('.popup-root');
+            if (emojisButton.style.opacity === '1') {
+                emojisButton.style.opacity = '0.4';
+                popupRoot.style.display = 'none';
+            } else {
+                emojisButton.style.opacity = '1';
+                popupRoot.style.display = 'flex';
+            }
+        });
+
         const container = document.querySelector("body > div > div.chat > pv-chat > div");
         if (!container) {
             console.warn("Container not found for emojisButton");
