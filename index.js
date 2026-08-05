@@ -70,11 +70,14 @@
                 emojiElement.setAttribute('data-id', emoji.id);
                 emojiElement.setAttribute('data-animated', emoji.animated);
 
+
                 const bgImgElement = document.createElement('div');
                 bgImgElement.style.backgroundImage = `url(${emoji.url})`;
 
+
                 const imgElement = document.createElement('img');
                 imgElement.src = (emoji.url + (emoji.animated ? '?animated=true' : ''));
+
 
                 emojiElement.appendChild(bgImgElement);
                 emojiElement.appendChild(imgElement);

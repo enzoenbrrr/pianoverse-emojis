@@ -97,6 +97,7 @@
   div.emojis-container div div.emoji:hover>div {
     transition: all 0.2s ease;
     opacity: 0.99;
+    filter: blur(1rem);
   }
 
   div.emojis-container div div.emoji>div {
@@ -112,16 +113,6 @@
     cursor: pointer;
     overflow: hidden;
     opacity: 0;
-  }
-
-  div.emojis-container div div.emoji>div::after {
-    content: '';
-    position: absolute;
-    inset: 0;
-    background: rgba(0, 0, 0, 0.30);
-    backdrop-filter: blur(0.5rem);
-    -webkit-backdrop-filter: blur(0.5rem);
-    z-index: 0;
   }
 
   div.emojis-container div div.emoji img {
