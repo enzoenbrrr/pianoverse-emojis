@@ -3,6 +3,7 @@ document.querySelectorAll(".emoji").forEach(emoji => {
       console.log("Emoji clicked:", this.querySelector("img").src);
     });
 });
+
 const container = document.querySelector('.emojis-container');
 const categoryButtons = document.querySelectorAll('.categories i[data-target]');
 const categorySections = document.querySelectorAll('.emojis-container > div[id]');
