@@ -14,7 +14,7 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 | Cats  | 11    |
 | Music | 13    |
 | Symbols | 15  |
-| **Total** | **57** |
+| **Total** | **54** |
 
 > [!NOTE]
 > Regular updates will automatically add new emojis if you follow the installation method recommended below.
