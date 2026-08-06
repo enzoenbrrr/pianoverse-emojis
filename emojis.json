@@ -53,6 +53,42 @@
       "name": "Donowall",
       "url": "https://cdn.discordapp.com/emojis/1534190205987328112.webp",
       "animated": true
+    },
+    {
+      "id": "1534862040727031908",
+      "name": "patrick",
+      "url": "https://cdn.discordapp.com/emojis/1534862040727031908.webp",
+      "animated": false
+    },
+    {
+      "id": "1534862152920203314",
+      "name": "TrollFace",
+      "url": "https://cdn.discordapp.com/emojis/1534862152920203314.webp",
+      "animated": true
+    },
+    {
+      "id": "1534862641984438412",
+      "name": "wowing_intensifies",
+      "url": "https://cdn.discordapp.com/emojis/1534862641984438412.webp",
+      "animated": true
+    },
+    {
+      "id": "1534866060715495567",
+      "name": "fingerwave",
+      "url": "https://cdn.discordapp.com/emojis/1534866060715495567.webp",
+      "animated": true
+    },
+    {
+      "id": "1534866062833619064",
+      "name": "suck",
+      "url": "https://cdn.discordapp.com/emojis/1534866062833619064.webp",
+      "animated": true
+    },
+    {
+      "id": "1534866064070934579",
+      "name": "pensiveanimated",
+      "url": "https://cdn.discordapp.com/emojis/1534866064070934579.webp",
+      "animated": true
     }
   ],
   "cats": [
@@ -134,6 +170,72 @@
       "id": "1534189501440589954",
       "name": "1108vibing",
       "url": "https://cdn.discordapp.com/emojis/1534189501440589954.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865609970552873",
+      "name": "animeahhhhh",
+      "url": "https://cdn.discordapp.com/emojis/1534865609970552873.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865612222894150",
+      "name": "dogflex",
+      "url": "https://cdn.discordapp.com/emojis/1534865612222894150.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865613900746762",
+      "name": "zerotwo",
+      "url": "https://cdn.discordapp.com/emojis/1534865613900746762.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865615423279214",
+      "name": "madblob",
+      "url": "https://cdn.discordapp.com/emojis/1534865615423279214.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865616647884952",
+      "name": "Cool_Doge",
+      "url": "https://cdn.discordapp.com/emojis/1534865616647884952.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865618501636176",
+      "name": "Dance",
+      "url": "https://cdn.discordapp.com/emojis/1534865618501636176.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865620112506953",
+      "name": "emoji_anime",
+      "url": "https://cdn.discordapp.com/emojis/1534865620112506953.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865621571993630",
+      "name": "Minecraft_Rainbow_Sheep",
+      "url": "https://cdn.discordapp.com/emojis/1534865621571993630.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865622910111784",
+      "name": "amongus",
+      "url": "https://cdn.discordapp.com/emojis/1534865622910111784.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865625120244034",
+      "name": "Doggo_dance",
+      "url": "https://cdn.discordapp.com/emojis/1534865625120244034.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865627431436398",
+      "name": "Anime",
+      "url": "https://cdn.discordapp.com/emojis/1534865627431436398.webp",
       "animated": true
     }
   ],
@@ -220,6 +322,30 @@
       "id": "1534194339855601666",
       "name": "DiscordStaffOld",
       "url": "https://cdn.discordapp.com/emojis/1534194339855601666.webp",
+      "animated": false
+    },
+    {
+      "id": "1534862954963538082",
+      "name": "face_id_success",
+      "url": "https://cdn.discordapp.com/emojis/1534862954963538082.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865107258179754",
+      "name": "Haraketli_i_ne",
+      "url": "https://cdn.discordapp.com/emojis/1534865107258179754.webp",
+      "animated": true
+    },
+    {
+      "id": "1534865108852015196",
+      "name": "AniGay",
+      "url": "https://cdn.discordapp.com/emojis/1534865108852015196.webp",
+      "animated": true
+    },
+    {
+      "id": "1534866628683235398",
+      "name": "bot",
+      "url": "https://cdn.discordapp.com/emojis/1534866628683235398.webp",
       "animated": false
     }
   ]
