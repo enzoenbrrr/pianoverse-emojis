@@ -13,7 +13,7 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 | Face  | 15    |
 | Cats  | 11    |
 | Music | 13    |
-| Symbols | 18  |
+| Symbols | 15  |
 | **Total** | **57** |
 
 > [!NOTE]
