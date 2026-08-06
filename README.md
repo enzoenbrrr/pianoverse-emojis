@@ -11,522 +11,354 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 <!-- DISCORD-EMOJIS:START -->
 
 
-### Face — 15
-
-<table>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534185581024776284.png?size=64"
-    width="25"
-    height="25"
-    alt="happy"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534185629959585922.png?size=64"
-    width="25"
-    height="25"
-    alt="sexy_face"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534185674192982047.png?size=64"
-    width="25"
-    height="25"
-    alt="emojigg_aah"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534185731352694906.png?size=64"
-    width="25"
-    height="25"
-    alt="troll_face"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534185836441243838.png?size=64"
-    width="25"
-    height="25"
-    alt="MikeWazowskiStraightFace"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534186183029166170.gif?size=64"
-    width="25"
-    height="25"
-    alt="verey_ANGERY"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534188768742084709.gif?size=64"
-    width="25"
-    height="25"
-    alt="pikaOMG"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534190011954757674.png?size=64"
-    width="25"
-    height="25"
-    alt="gigaCHAD"
-    loading="lazy"
-  >
-</td></tr>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534190205987328112.gif?size=64"
-    width="25"
-    height="25"
-    alt="Donowall"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534862040727031908.png?size=64"
-    width="25"
-    height="25"
-    alt="patrick"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534862152920203314.gif?size=64"
-    width="25"
-    height="25"
-    alt="TrollFace"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534862641984438412.gif?size=64"
-    width="25"
-    height="25"
-    alt="wowing_intensifies"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534866060715495567.gif?size=64"
-    width="25"
-    height="25"
-    alt="fingerwave"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534866062833619064.gif?size=64"
-    width="25"
-    height="25"
-    alt="suck"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534866064070934579.gif?size=64"
-    width="25"
-    height="25"
-    alt="pensiveanimated"
-    loading="lazy"
-  >
-</td></tr>
-</table>
+#### Face — 15
 
 
-### Cats — 11
+<p>
 
-<table>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534175357274685603.png?size=64"
-    width="25"
-    height="25"
-    alt="suscat"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534175418641420438.png?size=64"
-    width="25"
-    height="25"
-    alt="Nerdcat"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534175684401037492.gif?size=64"
-    width="25"
-    height="25"
-    alt="cat_shocked"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534175877829492986.gif?size=64"
-    width="25"
-    height="25"
-    alt="pinkblob"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534176067076493342.gif?size=64"
-    width="25"
-    height="25"
-    alt="catJAM"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534176120549675109.gif?size=64"
-    width="25"
-    height="25"
-    alt="catkiss"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534176295901073418.png?size=64"
-    width="25"
-    height="25"
-    alt="uwucat"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534176465745219716.png?size=64"
-    width="25"
-    height="25"
-    alt="Cute_Cat"
-    loading="lazy"
-  >
-</td></tr>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534176554572320969.png?size=64"
-    width="25"
-    height="25"
-    alt="whatulookinat"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534177072375664662.gif?size=64"
-    width="25"
-    height="25"
-    alt="catbop"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534192922725978202.png?size=64"
-    width="25"
-    height="25"
-    alt="shhhhh"
-    loading="lazy"
-  >
-</td></tr>
-</table>
+<img
+  src="https://cdn.discordapp.com/emojis/1534185581024776284.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534185629959585922.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534185674192982047.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534185731352694906.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534185836441243838.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534186183029166170.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534188768742084709.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534190011954757674.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534190205987328112.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534862040727031908.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534862152920203314.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534862641984438412.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534866060715495567.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534866062833619064.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534866064070934579.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy">
+</p>
 
 
-### Music — 13
-
-<table>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534189069532397580.gif?size=64"
-    width="25"
-    height="25"
-    alt="_dance_"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534189501440589954.gif?size=64"
-    width="25"
-    height="25"
-    alt="1108vibing"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865609970552873.gif?size=64"
-    width="25"
-    height="25"
-    alt="animeahhhhh"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865612222894150.gif?size=64"
-    width="25"
-    height="25"
-    alt="dogflex"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865613900746762.gif?size=64"
-    width="25"
-    height="25"
-    alt="zerotwo"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865615423279214.gif?size=64"
-    width="25"
-    height="25"
-    alt="madblob"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865616647884952.gif?size=64"
-    width="25"
-    height="25"
-    alt="Cool_Doge"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865618501636176.gif?size=64"
-    width="25"
-    height="25"
-    alt="Dance"
-    loading="lazy"
-  >
-</td></tr>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865620112506953.gif?size=64"
-    width="25"
-    height="25"
-    alt="emoji_anime"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865621571993630.gif?size=64"
-    width="25"
-    height="25"
-    alt="Minecraft_Rainbow_Sheep"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865622910111784.gif?size=64"
-    width="25"
-    height="25"
-    alt="amongus"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865625120244034.gif?size=64"
-    width="25"
-    height="25"
-    alt="Doggo_dance"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865627431436398.gif?size=64"
-    width="25"
-    height="25"
-    alt="Anime"
-    loading="lazy"
-  >
-</td></tr>
-</table>
+#### Cats — 10
 
 
-### Symbols — 15
+<p>
 
-<table>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534190615783276704.gif?size=64"
-    width="25"
-    height="25"
-    alt="fire"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534190768468529242.gif?size=64"
-    width="25"
-    height="25"
-    alt="FlamingHeart"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534191488643104818.gif?size=64"
-    width="25"
-    height="25"
-    alt="crown"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534192061576646666.gif?size=64"
-    width="25"
-    height="25"
-    alt="verified"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534192712608120904.gif?size=64"
-    width="25"
-    height="25"
-    alt="tickred"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534193128662110289.gif?size=64"
-    width="25"
-    height="25"
-    alt="tickgreen"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534193657002066101.gif?size=64"
-    width="25"
-    height="25"
-    alt="discord"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534193834253090828.gif?size=64"
-    width="25"
-    height="25"
-    alt="Boost_Gems_Month_24"
-    loading="lazy"
-  >
-</td></tr>
-<tr>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534193971847364768.gif?size=64"
-    width="25"
-    height="25"
-    alt="Payments"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534194284314497024.png?size=64"
-    width="25"
-    height="25"
-    alt="Badge_Developer"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534194339855601666.png?size=64"
-    width="25"
-    height="25"
-    alt="DiscordStaffOld"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534862954963538082.gif?size=64"
-    width="25"
-    height="25"
-    alt="face_id_success"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865107258179754.gif?size=64"
-    width="25"
-    height="25"
-    alt="Haraketli_i_ne"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534865108852015196.gif?size=64"
-    width="25"
-    height="25"
-    alt="AniGay"
-    loading="lazy"
-  >
-</td>
-<td align="center" valign="top">
-  <img
-    src="https://cdn.discordapp.com/emojis/1534866628683235398.png?size=64"
-    width="25"
-    height="25"
-    alt="bot"
-    loading="lazy"
-  >
-</td></tr>
-</table>
+<img
+  src="https://cdn.discordapp.com/emojis/1534175357274685603.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534175418641420438.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534175684401037492.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534175877829492986.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534176067076493342.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534176120549675109.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534176295901073418.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534176465745219716.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534176554572320969.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534192922725978202.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy">
+</p>
+
+
+#### Music — 13
+
+
+<p>
+
+<img
+  src="https://cdn.discordapp.com/emojis/1534189069532397580.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534189501440589954.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865609970552873.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865612222894150.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865613900746762.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865615423279214.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865616647884952.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865618501636176.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865620112506953.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865621571993630.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865622910111784.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865625120244034.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865627431436398.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy">
+</p>
+
+
+#### Symbols — 15
+
+
+<p>
+
+<img
+  src="https://cdn.discordapp.com/emojis/1534190615783276704.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534190768468529242.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534191488643104818.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534192061576646666.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534192712608120904.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534193128662110289.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534193657002066101.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534193834253090828.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534193971847364768.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534194284314497024.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534194339855601666.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534862954963538082.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865107258179754.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534865108852015196.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1534866628683235398.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy">
+</p>
 
 
 <!-- DISCORD-EMOJIS:END -->
