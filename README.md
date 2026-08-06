@@ -3,7 +3,8 @@
 This repository adds a custom emoji system, animated or static, directly into the **[Pianoverse](https://pianoverse.net/)** chat.  
 The goal is to make conversations more expressive by integrating a dedicated emoji picker.
 
-<img height="250" alt="image" src="https://github.com/user-attachments/assets/a181ac9e-1aba-4c2a-a1bf-b9a02eefa601" />
+<img width="686" height="326" alt="image" src="https://github.com/user-attachments/assets/8031ef62-137f-413c-9500-71914b5ba690" />
+
 
 ## Available Emojis
 
