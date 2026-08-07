@@ -299,7 +299,7 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 </p>
 
 
-#### Symbols — 17
+#### Symbols — 16
 
 
 <p>
@@ -390,12 +390,6 @@ The goal is to make conversations more expressive by integrating a dedicated emo
   loading="lazy"> 
 <img
   src="https://cdn.discordapp.com/emojis/1534866628683235398.webp"
-  width="25"
-  height="25"
-  alt=""
-  loading="lazy"> 
-<img
-  src="https://cdn.discordapp.com/emojis/1535263909945282622.webp"
   width="25"
   height="25"
   alt=""
