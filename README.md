@@ -11,7 +11,7 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 <!-- DISCORD-EMOJIS:START -->
 
 
-#### Face — 15
+#### Face — 21
 
 
 <p>
@@ -102,6 +102,42 @@ The goal is to make conversations more expressive by integrating a dedicated emo
   loading="lazy"> 
 <img
   src="https://cdn.discordapp.com/emojis/1534866064070934579.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263751081689148.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263752708952064.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263753942077500.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263755682971689.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263757239066716.webp?animated=true"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263759117983804.webp"
   width="25"
   height="25"
   alt=""
@@ -263,7 +299,7 @@ The goal is to make conversations more expressive by integrating a dedicated emo
 </p>
 
 
-#### Symbols — 15
+#### Symbols — 17
 
 
 <p>
@@ -354,6 +390,18 @@ The goal is to make conversations more expressive by integrating a dedicated emo
   loading="lazy"> 
 <img
   src="https://cdn.discordapp.com/emojis/1534866628683235398.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535263909945282622.webp"
+  width="25"
+  height="25"
+  alt=""
+  loading="lazy"> 
+<img
+  src="https://cdn.discordapp.com/emojis/1535264934613483590.webp"
   width="25"
   height="25"
   alt=""

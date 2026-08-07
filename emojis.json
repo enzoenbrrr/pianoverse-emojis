@@ -89,6 +89,42 @@
       "name": "pensiveanimated",
       "url": "https://cdn.discordapp.com/emojis/1534866064070934579.webp",
       "animated": true
+    },
+    {
+      "id": "1535263751081689148",
+      "name": "amoungus",
+      "url": "https://cdn.discordapp.com/emojis/1535263751081689148.webp",
+      "animated": false
+    },
+    {
+      "id": "1535263752708952064",
+      "name": "emojis",
+      "url": "https://cdn.discordapp.com/emojis/1535263752708952064.webp",
+      "animated": false
+    },
+    {
+      "id": "1535263753942077500",
+      "name": "flushaaa",
+      "url": "https://cdn.discordapp.com/emojis/1535263753942077500.webp",
+      "animated": true
+    },
+    {
+      "id": "1535263755682971689",
+      "name": "homerhide",
+      "url": "https://cdn.discordapp.com/emojis/1535263755682971689.webp",
+      "animated": true
+    },
+    {
+      "id": "1535263757239066716",
+      "name": "anime",
+      "url": "https://cdn.discordapp.com/emojis/1535263757239066716.webp",
+      "animated": true
+    },
+    {
+      "id": "1535263759117983804",
+      "name": "pain",
+      "url": "https://cdn.discordapp.com/emojis/1535263759117983804.webp",
+      "animated": false
     }
   ],
   "cats": [
@@ -322,6 +358,18 @@
       "id": "1534866628683235398",
       "name": "bot",
       "url": "https://cdn.discordapp.com/emojis/1534866628683235398.webp",
+      "animated": false
+    },
+    {
+      "id": "1535263909945282622",
+      "name": "bot",
+      "url": "https://cdn.discordapp.com/emojis/1535263909945282622.webp",
+      "animated": false
+    },
+    {
+      "id": "1535264934613483590",
+      "name": "bot",
+      "url": "https://cdn.discordapp.com/emojis/1535264934613483590.webp",
       "animated": false
     }
   ]
